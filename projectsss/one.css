@@ -1,0 +1,34 @@
+.container{ background-image:url(" https://www.tajmahal.gov.in/images/gallery/taj-mahal/big/19.jpg");
+    background-size:cover;
+    height:200vh;
+   
+
+}
+.header{
+    color:darkgray;
+    font-family:serif;
+    font-size:20px;
+    padding:20px;
+}
+.one{
+    height:30vh;
+    
+    background-color:aqua;
+    background-size:cover;
+    height:175vh;
+    border-radius:10px;
+    border-width:0px;
+    
+
+}
+.two{
+    color:burlywood;
+    font-family: sans-serif;
+}
+.y{
+    padding:20px;
+}
+.cy{
+    padding:30px;
+}
+
